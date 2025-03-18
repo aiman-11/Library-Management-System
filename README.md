@@ -18,7 +18,7 @@ Library Management System/
 ## Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/Hamza-92/Library-Management-System.git
+   git clone https://github.com/aiman-11/Library-Management-System.git
    cd Library-Management-System
    ```
 
@@ -31,7 +31,7 @@ Library Management System/
 
 3. **Configure the Database:**
    - Create a new SQL Server database.
-   - Update the connection string in `app.config` file.
+   - Update the connection string in `Database Layer.MyDB` file.
 
 4. **Build and Run** the project from **Visual Studio**.
 
